@@ -1,6 +1,4 @@
-// Matt Walsh (mw6es)
-// mw6es_ligo.cpp
-// Final Exam Question 1
+// Matt Walsh
 
 /* I found four matches of the wave template in the hanford data and five in the livingston data but only one overlapped, meaning there was only one gravitational wave. The overlap was recorded at about t=0.9514 seconds. As i said above, both data sets had multiple points where the chi2 value of the template vs the data was very low, howerver only one point had a low chi2 value at the same time point in both data sets */
 
